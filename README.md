@@ -1,5 +1,5 @@
-# TinyCircuits TinyShield Acclerometer Board
-# ASD2201 Rev1
+# TinyCircuits TinyShield Accelerometer Board
+# ASD2611 Rev1
 
 These are the design files for the TinyCircuits ASD2611 Rev 1 PCB.  This is a TinyShield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has a Bosch BMA250 accelerometer, local power supply and level shifters to connect between the TinyDuino and the accelerometer. 
 
