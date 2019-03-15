@@ -9,7 +9,7 @@ For more infomation on this, check out the product page at Tiny-Circuits.com:  h
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
